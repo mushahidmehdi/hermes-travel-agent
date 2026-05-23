@@ -1,0 +1,45 @@
+```json
+{
+  "destination": "Islamabad, Pakistan",
+  "duration": 2,
+  "summary": "A culturally rich 2-day trip through Pakistan's leafy capital. Explore the iconic Faisal Mosque and Pakistan Monument, wander the restored heritage village of Saidpur, and sample Islamabad's vibrant food scene — from hilltop dining at Monal to traditional street eats. The trip balances architectural landmarks, museum visits, and authentic local cuisine in a city known for its safety, greenery, and warm hospitality.",
+  "bestTimeNote": "Late May is early summer — expect hot, sunny days (30-38°C / 86-100°F) with low humidity. Start sightseeing early (by 8 AM) and rest during peak midday heat. Light cotton clothing, sunscreen, and plenty of water are essential. Margalla Hills viewpoints are best visited in late afternoon for cooler breezes and golden-hour photos.",
+  "totalBudget": "~$450-650 per person (including accommodation, meals, entry fees, local transport, and misc)",
+  "highlights": [
+    "Faisal Mosque — one of the world's largest mosques, set against the Margalla Hills",
+    "Saidpur Village — a 500-year-old restored village with traditional architecture and excellent dining in heritage havelis",
+    "Monal Restaurant — hilltop dining with a panoramic view of Islamabad's twinkling night lights"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "date": "2026-05-28",
+      "title": "Landmarks & Heritage",
+      "morning": "Start early at Faisal Mosque (opens 8 AM, free entry) — take in the stunning modernist tent-like architecture and the four 260ft minarets against the Margalla Hills. Best light for photos is before 9 AM when it's still cool. Dress modestly; women should carry a scarf for head covering. Then head to Daman-e-Koh viewpoint (PKR 20 entry) for panoramic city views above the mosque.",
+      "afternoon": "Visit the Pakistan Monument on Shakarparian Hills (9 AM-10 PM, PKR 50 entry) — the petal-shaped structure represents Pakistan's four provinces. Explore the adjoining Pakistan Monument Museum (PKR 500). Walk next door to Lok Virsa Museum (PKR 50) for a rich showcase of Pakistan's folk heritage, music, and crafts — allow 1.5 hours. Grab lunch at a nearby spot like Street 1 Cafe or the F-7 Markaz eateries.",
+      "evening": "Head to Saidpur Village (free entry, open till 10 PM) — a beautifully restored 500-year-old Mughal-era village at the foot of the Margalla Hills. Explore the ancient Hindu temples, Sikh gurdwara, and narrow cobblestone lanes. Dine at Des Pardes (traditional Pakistani cuisine in a restored haveli courtyard) or Andaaz Restaurant — both serve excellent karahi, haleem, and grilled bread. Expect ~PKR 1500-2500 per person for a full dinner.",
+      "accommodation": "Recommended: Best Western Premier Islamabad (~$80-100/night) — centrally located in Blue Area with good amenities. Alternative: Hotel One F-10 (~$50-70/night) for a budget-friendly option, or Islamabad Serena Hotel (~$120-150/night) for a premium stay with beautiful gardens and excellent dining.",
+      "tip": "At Daman-e-Koh, beware of the monkeys — they're bold and will snatch food or shiny objects. Keep bags and snacks securely zipped away. The viewpoint gets crowded by late morning; go early for a peaceful experience.",
+      "estimatedCost": "~$55-75 per person"
+    },
+    {
+      "day": 2,
+      "date": "2026-05-29",
+      "title": "UNESCO History & Local Flavors",
+      "morning": "Take a half-day trip to Taxila, a UNESCO World Heritage Site (30 min drive from Islamabad, ~PKR 600-800 via Careem/Uber). Explore the ancient Gandhara Buddhist ruins including the Dharmarajika Stupa, Jaulian Monastery, and Mohra Moradu. Start at the Taxila Museum (8:30 AM-4:30 PM, closed Mondays, PKR 500 for foreigners) to get historical context before walking the sites. Hire a guide at the museum (~PKR 500-1000) for a richer experience.",
+      "afternoon": "Return to Islamabad by early afternoon. Have lunch at Chaaye Khana (F-7 Markaz) — a beloved local cafe chain serving excellent chai, parathas, and light Pakistani/continental meals (~PKR 800-1200 per person). After lunch, explore F-7 Jinnah Super Market for souvenir shopping — browse handicrafts, embroidered shawls, and traditional kurtas at boutiques like Sanaulla Store or Nomad.",
+      "evening": "Experience Islamabad's most iconic dining: Monal Restaurant on Pir Sohawa Road, perched on the Margalla Hills (~PKR 1000-1500 for a Careem ride from the city). Arrive before sunset (around 6:30 PM) to watch the city lights flicker on across the valley below. The menu features excellent Pakistani barbecue (seekh kebabs, chicken tikka), dal makhani, and fresh naan. Expect ~PKR 2500-3500 per person for dinner with drinks. The 25°C evening hill breeze is a welcome relief from the daytime heat.",
+      "accommodation": "Same hotel as Day 1 (recommended: Best Western Premier Islamabad or similar centrally located option). Consider upgrading to Rawal Lake View Hotel (~$90-110/night) if you prefer a quieter lakeside setting on your last night.",
+      "tip": "Book a Monal table before 6 PM on weekdays or call ahead on weekends — it gets packed with locals and tourists alike for sunset. The road up Pir Sohawa is winding; take motion sickness meds if you're prone. Ask your driver to wait (1-2 hours, negotiable ~PKR 500-800) since finding a return ride from the hilltop can be tricky.",
+      "estimatedCost": "~$65-90 per person"
+    }
+  ],
+  "packingTips": [
+    "Light, breathable cotton clothing — loose trousers and long tops are ideal for both heat and modesty at religious sites",
+    "A scarf or shawl for women (required for Faisal Mosque entry, useful for sun protection)",
+    "Comfortable walking shoes — Taxila ruins and Saidpur's cobblestones require good footwear",
+    "Sunscreen (SPF 50+), sunglasses, and a wide-brimmed hat — the UV index is high in late May",
+    "Reusable water bottle and hand sanitizer — stay hydrated; stick to bottled water for drinking"
+  ]
+}
+```
